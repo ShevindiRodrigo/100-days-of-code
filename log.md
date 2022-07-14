@@ -15,6 +15,7 @@
 **Thoughts:** This is really awesome. Good luck to my CSS skillup journey! :-). Getting more interesting day by day. 
 
 **Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
+<<<<<<< HEAD
 
 ### Day 3: July 14, 2022 
 
@@ -23,3 +24,5 @@
 **Thoughts:** Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers. 
 
 **Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
+=======
+>>>>>>> eadc75e972095ddf9c514bd5552fe067d2d3c8b9
