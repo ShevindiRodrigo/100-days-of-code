@@ -15,12 +15,17 @@
 **Thoughts:** This is really awesome. Good luck to my CSS skillup journey! :-). Getting more interesting day by day. 
 
 **Link to work:** [Cafe Menu App](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/cafeMenuApp.html)
-<<<<<<< HEAD
 
 ### Day 3: July 14, 2022 
 
 **Today's Progress**: Learned how to set color values in CSS styling.Get some basic knowledge on primary, secondary and tertiary color creation using secondary and primary colors. Basically used RGB additive color palette
 
 **Thoughts:** Selecting the correct colors for your webpage can greatly improve the aesthetic appeal to your readers. 
+
+**Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
+
+### Day 4: July 15, 2022 
+
+**Today's Progress**: Continued the color marker project. Learned rgb function, hsl function and hex colors to represent colors.rgb function uses the additive color model, where colors start as black and change as the values of red, green, and blue increase.hsl uses hue, saturation and lightness. Learned to use gradient colors.
 
 **Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
