@@ -29,3 +29,11 @@
 **Today's Progress**: Continued the color marker project. Learned rgb function, hsl function and hex colors to represent colors.rgb function uses the additive color model, where colors start as black and change as the values of red, green, and blue increase.hsl uses hue, saturation and lightness. Learned to use gradient colors.
 
 **Link to work:** [Color Marker](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/coloredMakers.html)
+
+### Day 5: July 16, 2022 
+
+**Today's Progress**: Learn HTML forms by building a signup page. Learn how to control what types of data people can type into form, and some new CSS tools for styling the page
+
+**Link to work:** [Registration form](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/registrationform.html)
+
+
