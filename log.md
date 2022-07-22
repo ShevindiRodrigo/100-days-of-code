@@ -55,3 +55,10 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
 **Thoughts:** Flexbox helps you design your webpage so that it looks good on any screen size.
 
 **Link to work:** [Photo Gallery](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/photoGallary.html)
+
+### Day 10-11: July 21 -22, 2022 
+
+**Today's Progress**: Started working on learning typography bu building nutitional label. COmpleted the responsive survey form.
+
+**Link to work:** [Survey FOrm](https://github.com/ShevindiRodrigo/SurveyForm)
+
