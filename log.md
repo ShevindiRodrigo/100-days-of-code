@@ -62,3 +62,9 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
 
 **Link to work:** [Survey FOrm](https://github.com/ShevindiRodrigo/SurveyForm)
 
+### Day 12: July 23, 2022 
+
+**Today's Progress**: Completed building a nutrition label webpage using Typography.Learned to use span html element and float and clear css property.
+
+**Link to work:** [Nutritional lable](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/typography.html)
+
