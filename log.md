@@ -68,3 +68,11 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
 
 **Link to work:** [Nutritional label](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/typography.html)
 
+### Day 13-15: July 24-26, 2022 
+
+**Today's Progress**: Completed building a QR code component.Working on project accessibilty Quiz app.
+
+**Link to work:** [QR code component](https://github.com/ShevindiRodrigo/qr-code-component-main))
+
+
+
