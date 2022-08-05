@@ -74,5 +74,15 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
 
 **Link to work:** [QR code component](https://github.com/ShevindiRodrigo/qr-code-component-main))
 
+### Day 16: July 27, 2022 
+
+**Today's Progress**:  Spend time to revisit the html and css stuffs  that I learned till now. Started to build a new project
+
+### Day 17-23: July 28-Aug 3, 2022 
+
+**Today's Progress**: For these days I worked hard on learning basics of javascript. Specially, practiced problems on arrays and some of data structures.🤞
+                      Apart from that, I am continously learning html and css.
+                      Worked on few small projects to learn more on html and css.
+
 
 
