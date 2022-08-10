@@ -84,5 +84,11 @@ Nevertheless, best way to skill up HTML CSS is through working on simple project
                       Apart from that, I am continously learning html and css.
                       Worked on few small projects to learn more on html and css.
 
+### Day 24-29: Aug 4-Aug 9, 2022 
 
+**Progress**: Completed accessibility quiz app project. Learn the concept of accessibility. COmpleteded the project tribute page.
+
+**Link to work:** [Accessibilty QuizApp](https://github.com/ShevindiRodrigo/Responsive-Web-Design/blob/main/accessibiltyQuizApp)
+
+**Link to work:** [Tribute Page](https://github.com/ShevindiRodrigo/Tribute-Page)
 
